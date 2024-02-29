@@ -1,0 +1,12 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+C:\Users\Lenovo\source\repos\DSA5\DSA5\ExtendedTest.cpp(116,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\DSA5\DSA5\ExtendedTest.cpp(126,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\DSA5\DSA5\ExtendedTest.cpp(134,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\DSA5\DSA5\ExtendedTest.cpp(142,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\DSA5\DSA5\ExtendedTest.cpp(251,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SMIterator.cpp
+  ShortTest.cpp
+  SortedMap.cpp
+  Generating Code...
+  DSA5.vcxproj -> C:\Users\Lenovo\source\repos\DSA5\x64\Debug\DSA5.exe
